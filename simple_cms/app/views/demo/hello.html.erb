@@ -3,3 +3,13 @@
 <%= 1 + 1 %>
 <% target = "world"%>
 <%= "Hello #{target}"%>
+</br>
+<% @array.each do |n|%>
+<%= n %>
+<% end %>
+
+</br>
+ 
+<%= @page_no %>
+<%= @id %>
+<%= link_to('Index Page',{:action => 'index'})%>

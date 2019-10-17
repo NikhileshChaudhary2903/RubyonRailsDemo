@@ -1,0 +1,48 @@
+{
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "window.zoomLevel": 1.5,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 1,
+  // "gitlens.advanced.messages": {
+  //   "suppressCommitHasNoPreviousCommitWarning": false,
+  //   "suppressCommitNotFoundWarning": false,
+  //   "suppressFileNotUnderSourceControlWarning": false,
+  //   "suppressGitVersionWarning": false,
+  //   "suppressLineUncommittedWarning": false,
+  //   "suppressNoRepositoryWarning": false,
+  //   "suppressResultsExplorerNotice": false,
+  //   "suppressShowKeyBindingsNotice": true,
+  //   "suppressUpdateNotice": false,
+  //   "suppressWelcomeNotice": true
+  // },
+  "[typescript]": {
+    "editor.rulers": [
+      120
+    ]
+  },
+  "[typescriptreact]": {
+    "editor.rulers": [
+      120
+    ],
+  },
+  "[ruby]": {
+    "editor.rulers": [
+      100
+    ]
+  },
+  "ruby.intellisense": "rubyLocate",
+  "ruby.lint": {
+    "rubocop": true,
+  },
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "workbench.activityBar.visible": true,
+  "editor.letterSpacing": 0.3,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.fontSize": 10,
+  "terminal.integrated.scrollback": 3000,
+  "editor.formatOnSave": true,
+}
